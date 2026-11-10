@@ -1,6 +1,6 @@
 
 
-Uploading PortalZero-film.mp4…
+https://github.com/user-attachments/assets/a36113fa-607a-4ea4-bc45-e464ec30be5f
 
 # Portal Zero
 
@@ -33,6 +33,11 @@ Figures are stored as files on an SD card and are "placed" on the portal using a
 - 🔤 Umlauts and accents in file and folder names are shown readably
 
 Made for the Skylanders games on the **Wii**, e.g. **Spyro's Adventure** and **Giants**.
+### Case can be printed in 2 pieces clicked together no glue needed, don't forget to activate supports.
+
+
+Uploading PortalZero-film.mp4…
+
 
 ### Console compatibility
 
