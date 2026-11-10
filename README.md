@@ -47,7 +47,7 @@ The Wii, Wii U, PS3 and PS4 portals are interchangeable – Portal Zero emulates
 
 | Part | Note |
 |---|---|
-| Waveshare RP2040-Zero | USB-C, GPIO 0–15 and 26–29 are used |
+| RP2040-Zero | USB-C, GPIO 0–15 and 26–29 are used |
 | OLED 0.96" SSD1306, 128×64, I²C | 4 pins: VCC, GND, SCL, SDA |
 | SD card module (SPI) | card formatted as FAT32 or exFAT |
 | 3 push buttons | UP, SEL, DOWN |
