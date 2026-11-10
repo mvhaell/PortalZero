@@ -113,10 +113,6 @@ Supported formats:
 
 - **`.nfc`** – Flipper Zero dumps (MIFARE Classic 1K). Only the lines `Block 0:` … `Block 63:` are used, everything else is ignored. `??` in the key blocks is normal; if data is missing, the display shows "Warning: incomplete".
 - **`.sky` / `.bin` / `.dmp`** – raw data with exactly 1024 bytes.
-
-> ⚠️ This repository contains **no figure files**. Please only use dumps of your own figures.
-> Make a backup of your files before playing for the first time – the game writes directly into them.
->
 > Coming from the older PTPE firmware? Your favorites and last figures are taken over automatically from the same SD card.
 
 ---
