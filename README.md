@@ -2,7 +2,7 @@
 
 **A Skylanders portal emulator for the Wii – RP2040-Zero, 3 buttons, OLED, SD card.**
 
-A **Waveshare RP2040-Zero** pretends to be an original **Skylanders Portal of Power** on the **Nintendo Wii**.
+A **RP2040-Zero** pretends to be an original **Skylanders Portal of Power** on the **Nintendo Wii**.
 Figures are stored as files on an SD card and are "placed" on the portal using a small OLED display and three buttons.
 
 > Based on [NicoAICP/PTPE](https://github.com/NicoAICP/PTPE) – rebuilt for **3 buttons**, an **I²C OLED**,
